@@ -1,5 +1,6 @@
 # [aflink.us](https://aflink.us)
 
+
 [![Searching aflink and toggling the dark theme](.github/demo.gif)](https://aflink.us)
 
 ---
