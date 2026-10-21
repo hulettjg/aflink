@@ -1,0 +1,156 @@
+[
+  {
+    "category": "Leadership & Command",
+    "contacts": [
+      { "title": "MXG/CC", "phone": "456-2815" },
+      { "title": "MXG/CD", "phone": "456-2814" },
+      { "title": "MXG/Exec", "phone": "456-3195" },
+      { "title": "702 MXS/CC", "phone": "456-3195" },
+      { "title": "MXG/Secretary", "phone": "456-2868" },
+      { "title": "Director of Ops", "phone": "456-5393" },
+      { "title": "2 MXG CSS", "phone": "456-9107" },
+      { "title": "2 MXG CSS (Alt)", "phone": "456-3195" },
+      { "title": "702 CSS", "phone": "456-1815 / 6225" },
+      { "title": "Chief P (MXG/CCC)", "phone": "456-5592" },
+      { "title": "2 MXG (DSN)", "phone": "312-781-6455" }
+    ]
+  },
+  {
+    "category": "Security",
+    "contacts": [
+      { "title": "SFS", "phone": "456-2551" },
+      { "title": "Crime Stop", "phone": "318-456-3000" },
+      { "title": "Pass & ID", "phone": "456-3106 / 3180 / 5645" },
+      { "title": "SFS/Physical Sec", "phone": "456-1701" },
+      { "title": "702 MXS Security Mgr", "phone": "529-3419" },
+      { "title": "Security Manager", "phone": "456-3086" },
+      { "title": "Chief, Info Prot", "phone": "456-1697" },
+      { "title": "Personnel Sec", "phone": "456-3797" },
+      { "title": "Industrial/Info Sec", "phone": "456-3543" },
+      { "title": "Cyber Sec (Comm)", "phone": "456-0132" },
+      { "title": "AT/FP", "phone": "456-1250" },
+      { "title": "SFS CATM", "phone": "456-2538" },
+      { "title": "OSS Security (Area 13)", "phone": "456-5063" }
+    ]
+  },
+  {
+    "category": "Deployment & Readiness",
+    "contacts": [
+      { "title": "IDO", "phone": "456-2320 / 318-393-8793" },
+      { "title": "IDRC (Plans & Programs)", "phone": "456-5555" },
+      { "title": "IPR", "phone": "456-2501" },
+      { "title": "IPR (SIPR)", "phone": "456-2823" },
+      { "title": "IPE", "phone": "456-8150" },
+      { "title": "Passports (COSO)", "phone": "456-4129 / 5472" },
+      { "title": "MUNS UDM", "phone": "456-0056" },
+      { "title": "MXS UDM", "phone": "456-5271" },
+      { "title": "AMXS UDM (96th)", "phone": "456-9310" },
+      { "title": "AMXS UDM (20th)", "phone": "456-2036" },
+      { "title": "307 MXG UDM", "phone": "456-9453" }
+    ]
+  },
+  {
+    "category": "Military & Personnel Support",
+    "contacts": [
+        { "title": "DEERS/Military ID Cards", "phone": "318-456-3710" },
+        { "title": "Active Duty Retirements/Separations", "phone": "318-456-2171" },
+        { "title": "Active Duty Outbound Assignments", "phone": "318-456-0068" },
+        { "title": "Active Duty Promotions", "phone": "318-456-5478" },
+        { "title": "Active Duty Reenlistments", "phone": "318-456-5272" },
+        { "title": "Force Management", "phone": "318-456-4129" },
+        { "title": "Passports", "phone": "318-456-2844" }
+    ]
+  },
+  {
+    "category": "Squadron Support",
+    "contacts": [
+        { "title": "AMXS/SM", "phone": "456-0236" },
+        { "title": "MXS/SM", "phone": "456-5862 / 6907 / 5577" },
+        { "title": "MUNS/SM", "phone": "456-5032" },
+        { "title": "AMXS CSS (96th)", "phone": "456-3339" },
+        { "title": "20 BGS CSS", "phone": "456-7558" },
+        { "title": "96 BGS CSS", "phone": "456-3339" },
+        { "title": "20 BGS CTK", "phone": "456-5024" },
+        { "title": "96 BGS CTK", "phone": "456-5123 / 3357" },
+        { "title": "AFREP", "phone": "456-8986" },
+        { "title": "TFI", "phone": "529-3239" },
+        { "title": "AMXS ODTA", "phone": "456-3691" }
+    ]
+  },
+  {
+      "category": "Resource Advisors",
+      "contacts": [
+        { "title": "RA (General)", "phone": "456-5373" },
+        { "title": "702 MXS RA", "phone": "456-4483" },
+        { "title": "2 MXG/MXS RA", "phone": "456-3491" },
+        { "title": "2 MXS RA", "phone": "456-3687" },
+        { "title": "96 BGS RA", "phone": "456-5878" }
+    ]
+  },
+  {
+      "category": "Maintenance Operations",
+      "contacts": [
+        { "title": "MOC Lead", "phone": "456-4041 / 4083" },
+        { "title": "MXOC/SUPT", "phone": "456-4071" },
+        { "title": "MOF/CC & MOF/CD", "phone": "456-4071" },
+        { "title": "96 BGS Production", "phone": "456-5507" },
+        { "title": "20 BGS Production", "phone": "456-5118" },
+        { "title": "WILT", "phone": "456-2633 / 2632 / 6530 / 1821" },
+        { "title": "QA Chief", "phone": "456-7480" },
+        { "title": "QA Chief Insp", "phone": "456-2402" },
+        { "title": "QA", "phone": "456-5878" },
+        { "title": "Engine Management", "phone": "456-1392" },
+        { "title": "Analysis", "phone": "456-0019" },
+        { "title": "702 MXS Scheduling", "phone": "456-7039" },
+        { "title": "P&S / AFETS Lead", "phone": "456-3285" },
+        { "title": "Egress", "phone": "456-4580" },
+        { "title": "FOD Monitor", "phone": "456-5813" }
+    ]
+  },
+  {
+      "category": "GOLD",
+      "contacts": [
+        { "title": "GOLD APG", "phone": "529-3679" },
+        { "title": "GOLD SPECS", "phone": "529-3426" },
+        { "title": "GOLD CSS", "phone": "529-9003" },
+        { "title": "GOLD WPNS", "phone": "529-4890" },
+        { "title": "GOLD CTK", "phone": "529-3675" }
+    ]
+  },
+  {
+      "category": "Base Services & Support",
+      "contacts": [
+        { "title": "Command Post", "phone": "456-2151" },
+        { "title": "Airman & Family Readiness Center", "phone": "318-456-8400" },
+        { "title": "Chapel Programs", "phone": "318-456-2111" },
+        { "title": "Child Development Center (East)", "phone": "318-456-4139" },
+        { "title": "Child Development Center (West)", "phone": "318-456-2735" },
+        { "title": "Family Child Care", "phone": "318-456-9688" },
+        { "title": "Barksdale AFB Youth Programs", "phone": "318-456-3448" },
+        { "title": "Arts and Crafts", "phone": "318-456-3140" },
+        { "title": "Outdoor Recreation", "phone": "318-456-3426" },
+        { "title": "Wing Safety", "phone": "456-5608" },
+        { "title": "HUB", "phone": "456-2666" },
+        { "title": "Education", "phone": "456-2615" },
+        { "title": "CE Help Desk", "phone": "456-3071" },
+        { "title": "Self Help", "phone": "456-8565" },
+        { "title": "Family Advocacy", "phone": "318-456-6595" },
+        { "title": "Mental Health/Substance Abuse", "phone": "318-456-6600" },
+        { "title": "Drug Demand Reduction", "phone": "318-456-8021" },
+        { "title": "Bioenvironmental", "phone": "456-6730" },
+        { "title": "Public Health", "phone": "456-6599" },
+        { "title": "Immunization Clinic", "phone": "318-456-6740" },
+        { "title": "2nd Medical Group Pediatrics", "phone": "318-456-6744" },
+        { "title": "Emergency Management", "phone": "456-2058 / 3506" },
+        { "title": "EM (CBRN)", "phone": "456-2968" },
+        { "title": "2 BW/PA", "phone": "456-1015" },
+        { "title": "Medical AED", "phone": "456-6048" },
+        { "title": "Fire Extinguishers", "phone": "456-1588" },
+        { "title": "Pest Control", "phone": "456-1814" },
+        { "title": "Lawn Mx", "phone": "456-3750" },
+        { "title": "Recycling", "phone": "456-5293" },
+        { "title": "NexGen Account Management", "phone": "833-669-4368" },
+        { "title": "Lab / Mr. Matthias", "phone": "456-2936" }
+      ]
+  }
+]
