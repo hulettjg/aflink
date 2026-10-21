@@ -1,0 +1,26 @@
+extends includes/layout
+
+block head
+  title Unit Directory
+  meta(name='description', content='Unit Directory for 702 MXS')
+
+block body
+  section#search.bg-sage.text-center
+    .container
+      .form-outline
+        input#search-form.form-control(type='search' placeholder='Search name, office, or number...' aria-label='Search' autofocus)
+
+  section#list.bg-sage.text-center
+    .container
+      .offcenter
+        h2 Unit Directory
+      #link-list.list-group
+        each category in contacts
+          .list-group-item.list-group-item-action.border-top.disabled.category= category.category
+          each contact in category.contacts
+            .list-group-item.list-group-item-action.border-top.link-container
+              .main-link
+                span.title= contact.title
+                span.phone.float-end= contact.phone
+      p.alert-dark(hidden) No results for 
+        em
