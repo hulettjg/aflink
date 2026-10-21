@@ -1,4 +1,14 @@
 {
+  [
+  {
+    "category": "Unit Resources",
+    "links": [
+      {
+        "title": "Unit Directory",
+        "url": "directory.html"
+      }
+    ]
+  },
   "OTHER": [
     {
       "title": "myEval (myFSS)",
